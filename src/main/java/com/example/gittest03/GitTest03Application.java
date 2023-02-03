@@ -6,8 +6,4 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitTest03Application {
 
-    public static void main(String[] args) {
-        SpringApplication.run(GitTest03Application.class, args);
-    }
-
 }
